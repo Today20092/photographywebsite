@@ -1,0 +1,19 @@
+# Hugo output directory
+/public/
+
+# Ignore Hugo cache and temporary files
+/resources/
+/resources/_gen/
+/resources/_gen/images/
+/resources/_gen/assets/
+/resources/_gen/data/
+/resources/_gen/page/
+
+# Ignore Hugo server and generated files
+/resources/_gen/content/
+/resources/_gen/fonts/
+/resources/_gen/js/
+/resources/_gen/css/
+/resources/_gen/media/
+/resources/_gen/bundles/
+/resources/_gen/misc/

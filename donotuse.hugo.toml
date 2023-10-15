@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Photography Site'
+theme ='hugo-starter'
+
+[menu]
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/about"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "Portfolio"
+    name = "Portfolio"
+    url = "/portfolio"
+    weight = 30

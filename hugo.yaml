@@ -1,0 +1,18 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Photography Site
+theme: ayoub-starter
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about
+      weight: 10
+    - identifier: Contact
+      name: Contact
+      url: /contact
+      weight: 20
+    - identifier: Portfolio
+      name: Portfolio
+      url: /portfolio
+      weight: 30
