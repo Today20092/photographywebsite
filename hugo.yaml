@@ -1,7 +1,7 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: Photography Site
-theme: ayoub-starter
+theme: ayoubstheme2
 menu:
   main:
     - identifier: About
